@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the C3M-Farm paper and this software release."
+title: "C3M-Farm: Auditable Reference Implementation"
+type: software
+version: 0.3.0
+date-released: 2026-09-03
+authors:
+  - family-names: Franci
+    given-names: Dona Amange
+  - family-names: Doghramachy
+    given-names: Chra Ismael
+  - family-names: Dany
+    given-names: Haneen Khalid
+  - family-names: Bia
+    given-names: Maikey Zaki
+  - family-names: Kareem
+    given-names: Shahab Wahhab
+repository-code: "REPLACE_WITH_GITHUB_URL"
+abstract: >
+  Auditable reference implementation of C3M-Farm with C-MAPSS grouped splitting,
+  proxy-view construction, contrastive learning, disentanglement, graph reasoning,
+  attention fusion, RUL/classification heads, and reproducibility audits.
